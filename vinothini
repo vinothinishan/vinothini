@@ -1,0 +1,2 @@
+a=list(set(input().lower()))
+print(len(a))
